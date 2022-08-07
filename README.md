@@ -4,13 +4,13 @@ A Simple Interest Calculator programmed in C
 
 1. To build this application in linux:
 
-
 1. Go to terminal
 2. Do "sudo apt install gcc"
 3. do "git clone https://github.com/SomeTroller77/SimpleInterestCalculator"
 4. do "cd SimpleInterestCalculator"
 5. execute "gcc main.c -o SimpleInterestCalculator"
 6. then "./SimpleInterestCalculator"
+
 
 2. To build this application in windows
 
