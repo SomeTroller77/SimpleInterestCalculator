@@ -12,3 +12,9 @@ To build this application in linux:
 
 and Voila!!
 you built the application and executed it
+
+if you have some suggestions then go to issue and create a new issue
+and i will review it!
+
+Thanks
+SomeTroller77
