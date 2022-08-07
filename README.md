@@ -2,6 +2,8 @@
 
 A Simple Interest Calculator programmed in C
 
+
+------------------------------------------------
 1. To build this application in linux:
 
 1. Go to terminal
@@ -20,6 +22,7 @@ A Simple Interest Calculator programmed in C
 3. go to the directory where you have the main.c file
 4. type "gcc c -o SimpleInterestCalculator.exe main.c" 
 5. then do "SimpleInterestCalculator.exe" 
+-------------------------------------------------
 
 and Voila!!
 you built the application and executed it
