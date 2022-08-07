@@ -1,7 +1,7 @@
 # SimpleInterestCalculator
 
 A Simple Interest Calculator programmed in C
-
+------------------------------------------------
 You can download the exe and linux file from the release tab or if you want to customise it and build it then follow the steps below
 ------------------------------------------------
 1. To build this application in linux:
