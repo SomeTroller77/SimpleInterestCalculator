@@ -12,6 +12,7 @@ A Simple Interest Calculator programmed in C
 6. then "./SimpleInterestCalculator"
 
 
+-------------------------------------------------
 2. To build this application in windows
 
 1. Install MinGW from the internet
